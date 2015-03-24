@@ -1,0 +1,31 @@
+{
+  "name": "deep-jquery-http",
+  "main": "index.js",
+  "version": "0.3.0",
+  "homepage": "https://github.com/deepjs/deep-jquery-http",
+  "authors": [
+    "Gilles Coomans <gilles.coomans@gmail.com>"
+  ],
+  "description": "deepjs/jquery/ajax http client",
+  "dependencies": {
+    "deepjs": ">=0.14.0"
+  },
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+ "keywords": [
+  "jquery",
+  "nodejs",
+  "http client",
+  "deepjs"
+ ],
+  "license": "LGPL 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

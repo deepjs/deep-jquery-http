@@ -1,7 +1,7 @@
 {
   "name": "deep-jquery-http",
   "main": "index.js",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "homepage": "https://github.com/deepjs/deep-jquery-http",
   "authors": [
     "Gilles Coomans <gilles.coomans@gmail.com>"
@@ -14,12 +14,12 @@
     "amd",
     "node"
   ],
- "keywords": [
-  "jquery",
-  "nodejs",
-  "http client",
-  "deepjs"
- ],
+  "keywords": [
+    "jquery",
+    "nodejs",
+    "http client",
+    "deepjs"
+  ],
   "license": "LGPL 3.0",
   "ignore": [
     "**/.*",

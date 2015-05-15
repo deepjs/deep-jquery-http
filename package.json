@@ -1,30 +1,28 @@
 {
- "name": "deep-jquery-http",
- "description": "deepjs/jquery/ajax http client",
- "author": {
-  "name": "Gilles Coomans",
-  "email": "gilles.coomans@gmail.com"
- },
- "version": "0.3.1",
- "contributors": [],
- "keywords": [
-  "jquery",
-  "nodejs",
-  "http client",
-  "deepjs"
- ],
- "licenses": [
-  {
-   "type": "LGPLv3.0",
-   "url": "http://www.gnu.org/licenses/lgpl-3.0.txt"
-  }
- ],
- "repository": {
-  "type": "git",
-  "url": "https://github.com/deepjs/deep-jquery-http.git"
- },
- "dependencies": {
-  "deepjs": ">=0.14.0"
- },
- "main": "./index"
+  "name": "deep-jquery-http",
+  "description": "deepjs/jquery/ajax http client",
+  "author": {
+    "name": "Gilles Coomans",
+    "email": "gilles.coomans@gmail.com"
+  },
+  "version": "0.3.2",
+  "contributors": [],
+  "keywords": [
+    "jquery",
+    "nodejs",
+    "http client",
+    "deepjs"
+  ],
+  "licenses": [{
+    "type": "LGPLv3.0",
+    "url": "http://www.gnu.org/licenses/lgpl-3.0.txt"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepjs/deep-jquery-http.git"
+  },
+  "dependencies": {
+    "deepjs": ">=0.14.0"
+  },
+  "main": "./index"
 }
